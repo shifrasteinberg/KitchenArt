@@ -1,0 +1,612 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*text*/
+body{
+	color:#382f17;
+    padding-top: 125px;
+	padding-bottom:79px;
+	font-size:16px;
+}
+
+.content-inner{
+	padding-top:30px;
+}
+h1{
+	font-family:'BenchNine', sans-serif;
+	text-transform:uppercase;
+}
+h2{
+	font-weight:500;
+	font-family: 'BenchNine', sans-serif;
+	text-transform:uppercase;
+}
+h2.section-heading{
+	font-size:30px;
+}
+h3{
+	font-size:30px;
+	font-family: 'BenchNine', sans-serif;
+	text-transform:uppercase;
+}
+h4.page-links{
+	color:#5d2123;
+	letter-spacing:.3px;
+}
+
+
+a,
+a:focus,
+a:active,
+a:hover{
+	color:#382f17;
+}
+a:hover{
+	color:#382f17;
+}
+/*nav*/
+.navbar{
+	z-index:50;
+}
+.navbar-fixed-top{
+	top:80px;
+}
+@media (max-width:1199px) {
+	
+	
+	.click-me h1{
+		font-size:30px!important;
+	}
+	
+}
+@media (max-width:991px) {
+	body{
+		padding-top:160px;
+	}
+	.click-me{
+		height:110px!important;
+		
+	}
+	
+	.navbar-fixed-top{
+		top:110px;
+	}
+}
+@media (max-width:767px) {
+	body{
+		padding-top:160px;
+	}
+	.click-me{
+		height:110px!important;
+		
+	}
+	.click-me h1{
+		font-size:25px!important;
+	}
+	.navbar-fixed-top{
+		top:110px;
+	}
+}
+.navbar-nav{
+	padding-right:30px;
+}
+
+.navbar-inverse{
+	background-color:#382f17;
+	border-bottom:solid thick white;
+	
+}
+
+.navbar-inverse .navbar-toggle{
+	border:none;
+}
+.navbar-inverse button.navbar-toggle li a:hover{
+	background-color:none;
+}
+.navbar-inverse .navbar-nav li a{
+	color:white;
+}
+.nav li a{
+	padding:15px 20px;
+}
+.navbar-brand{
+	z-index:100;
+	padding-top:0px;
+
+}
+.navbar-brand img.logo-pc{
+
+	border-bottom-right-radius:7px;
+	border-bottom-left-radius:7px;
+	box-shadow:rgba(0,0,0,.5) 2px 2px 2px;
+}
+
+
+
+/*side nav*/
+
+.sidenav{
+	padding-top:175px;
+}
+
+ul.dropdown,
+ul.dropdown li ul{
+	list-style-type:none;
+}
+
+.dropdown li a{
+	font-weight:bold;
+}
+.dropdown li a:hover,
+.dropdown li a:active,
+.dropdown li a:focus{
+	text-decoration:none;
+}
+.dropdown li{
+	margin-top:10px;
+	font-size:14px;
+}
+
+.dropdown li:hover,
+.dropdown li:active{
+	list-style-image:url(../images/circle.png);
+}
+
+.dropdown li ul li a{
+	font-weight:normal;
+}
+.dropdown li ul li{
+	margin-top:0px;
+	list-style-image:none;
+	margin-left:-20px;
+}
+
+.dropdown li ul li:hover,
+.dropdown li ul li:active{
+	list-style-image:none;
+}
+
+.dropdown li ul li a:hover{
+	text-decoration:underline;
+	color:#8DC2DB;
+}
+@media (max-width:992px) {
+	
+}
+@media (max-width:767px) {
+
+.navbar-brand{
+	width:190px;
+}
+.navbar-brand img{
+	
+	margin-top:2px;
+	margin-right:0px;
+}
+.sidenav{
+	padding-top:30px;
+}
+.content-inner{
+	padding-top:20px;
+}
+
+
+}
+.page-links-outer{
+	padding-left:20px;
+	margin-top:30px;
+}
+
+
+.carousel-caption{
+	    text-shadow:none;
+		background:none;
+		padding-top:0px;
+		right:0%;
+		left:75%;
+}
+.carousel-caption-behind{
+	background-color:white;
+	border-top-left-radius:7px;
+	border-bottom-left-radius:7px;
+}
+.carousel-caption h2{
+	background-color:rgba(233,227,220,.4);
+	padding:5px 5px 2px 5px;
+	margin-bottom:0px;
+	color:#8DC2DB;
+	border-top-left-radius:10px;
+	border-bottom-left-radius:10px;
+	letter-spacing:.5px;
+}
+
+.container.circles{
+	margin-top:50px;
+}
+.container.circles h2{
+	font-weight:bold;
+}
+
+@media (max-width:992px) {
+	.row.circles .col-sm-6.col-xs-12{
+		margin-bottom:40px;
+	}
+}
+@media (max-width:767px) {
+	.carousel-caption h2{
+		font-size:20px;
+		padding:5px;
+		font-weight:normal;
+	}
+
+}
+.img-rectangle{
+	border-radius:7px;
+}
+.new-pic{
+	background-image:url(/images/upload/Reflecting-Nature-small.jpg); 
+	background-size:cover;
+	background-position:center;
+	border:solid thin #382f17;
+}
+.products-pic{
+	background-image:url(/images/beatrizball/PEARLdavidpyrexcasserole9x13470.jpg); 
+	background-size:130%;
+	background-position:center;
+}
+.tips-pic{
+	background-image:url(/images/tipsntalk/quickpopmaker.png); 
+	background-size:cover;
+	background-position:center;
+	border:solid thin #382f17;
+}
+.specials-pic{
+	background-image:url(/images/slideshowNew/BIG-SALE.jpg); 
+	background-size:100%;
+	background-position:center;
+}
+.marketing .col-lg-4 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+.marketing .col-lg-4 p {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.btn-default{
+	color:#382f17;
+}
+.btn-default:hover,
+.btn-default:focus,
+.btn-default:active{
+	color:white;
+	background-color:#8DC2DB;
+}
+
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+  margin: 80px 0; /* Space out the Bootstrap <hr> more */
+}
+
+/* Thin out the marketing headings */
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -.5px;
+}
+.text-muted{color:#8DC2DB;}
+
+.row.featurette{
+	padding-right:30px;
+	padding-left:30px;
+}
+.lead{color:#4c1d1e;
+font-size:20px;
+
+}
+.featurette-image{
+	width:100%;
+	border-radius:10px;
+}
+.lead a{
+	color:#4c1d1e;
+}
+/* RESPONSIVE CSS
+-------------------------------------------------- */
+
+@media (min-width: 768px) {
+  /* Navbar positioning foo */
+
+  .featurette-heading {
+    font-size: 60px;
+	margin-top:0px;
+  }
+   .featurette-image{
+	  margin-top:30px;
+  }
+
+}
+
+@media (min-width: 992px) {
+ 
+  .featurette-image{
+	  margin-top:10%;
+  }
+}
+@media (max-width:767px) {
+	h2.section-heading{
+		font-size:24px;
+	}
+	.featurette-heading{
+		font-size:40px;
+		padding-left:10px;
+		letter-spacing:normal;
+	}
+	.content-inner p{
+		padding-left:10px;
+	}
+}
+.products{
+	padding-top:20px;
+}
+
+.products .text-center{
+	padding-bottom:30px;
+}
+.ship{
+	padding-right:55px;
+}
+.ship h3{
+	text-align:right;
+}
+.ship h3 a{
+	text-decoration:underline;
+}
+@media (max-width:767px) {
+	.ship{
+		padding-right:0;
+	}
+	.ship h3{
+		text-align:center;
+	}
+}
+.img-square img{
+	width:100%;
+}
+.sub-products .text-center p{
+	height:75px;
+}
+
+/*modal*/
+a.thumbnail.active, a.thumbnail:focus, a.thumbnail:hover{
+	border-color:#87addb;
+}
+.thumbnail{
+	margin-bottom:10px;
+	position:relative;
+	padding-bottom:100%;
+	width:100%;
+}
+h5.thumbtitle{
+	margin-bottom:30px;
+	font-size:16px;
+	height:80px;
+	line-height:20px;
+}
+@media (max-width:1199px) {
+	h5.thumbtitle{
+		height:110px;
+	}
+}
+h5.thumbtitle .brand{
+	font-size:14px;
+	line-height:16px;
+}
+h5.thumbtitle small{
+	font-size:12px;
+	line-height:16px;
+	color:#5D2123;
+}
+h5.thumbtitle .pay{
+	color:#8DC2DB;
+	font-size:12px;
+	line-height:16px;
+	font-weight:400;
+}
+.product-sub-heading{
+	padding-top:40px;
+	padding-bottom:40px;
+}
+
+.thumbnail-inner{
+	position:absolute;
+	top:4px;
+	bottom:4px;
+	right:4px;
+	left:4px;
+}
+.thumbnail .thumbnail-inner img{
+	max-width:100%;
+	max-height:100%;
+	margin-left:auto;
+	margin-right:auto;
+}
+.thumb .thumbnail{
+	padding:0 0 100% 0;
+}
+.portfolio-item{
+	height:300px;
+}
+.portfolio-sorting li{
+	text-transform:uppercase;
+	border-right:1px solid #2AA7DF;
+	padding:0px 8px;;
+	margin-bottom:15px;
+	font-size:14px;
+}
+.featurette ul.portfolio-sorting{
+	line-height:15px;
+	border-bottom:1px solid #eee;
+	border-top:1px solid #eee;
+	padding-top:20px;
+	margin-bottom:40px;
+}
+.modal-title{
+	text-align:center;
+	font-size:25px;
+	font-weight:normal;
+}
+.modal-footer{
+	border:none;
+	margin-top:20px;
+}
+.modal-body{
+	height:470px;
+	overflow:hidden;
+}
+.modal-body img{
+	margin-right:auto;
+	margin-left:auto;
+}
+modal-dialog{
+	width:auto;
+}
+.modal-dialog .btn-primary{
+	background-color:#382f17;
+	border-color:#382f17;
+}
+.modal-dialog .btn-primary:hover,
+.modal-dialog .btn-primary:active,
+.modal-dialog .btn-primary:focus{
+	background-color:#382f17;
+	border-color:#382f17;
+}
+.modal-dialog img{
+max-height:470px;
+
+}
+h5.modal-caption{
+	text-align:center;
+	font-size:18px;
+	margin-bottom:0px;
+}
+@media (max-width:767px) {
+	.col-xs-6.thumb{
+		padding-right:7px;
+		padding-left:7px;
+	}
+	.img-responsive,
+	.thumbnail>img{
+		width:100%;
+		height:auto;
+	}
+	.modal-dialog img{
+	height:auto;
+	width:auto;
+	}
+	.modal-body{
+	height:auto;
+	
+}
+	.modal-dialog .btn-primary{
+		font-size:12px;
+	}
+	.modal-dialog .modal-title{
+		font-size:20px;
+	}
+	.modal-dialog .modal-caption{
+		font-size:16px;
+	}
+	.products{
+	padding-top:0px;
+}
+}
+
+/*tips and talk*/
+.recipe{
+	margin-bottom:70px;
+	height:40px;
+	}
+h3.recipe-header{
+	font-size:25px;
+	padding-top:20px;
+}
+ul.ingredients,
+ol.ingredients{
+	padding-left:20px;
+	font-size:14px;
+}
+.recipe-img{
+	padding:40px 0 0 0;
+}
+.recipe-placeholder{
+	position:absolute; 
+	top:-130px;
+}
+.recipe-section{
+	position: relative;
+    border-top: 1px solid #ddd;
+    margin-top: 20px;
+}
+/*sign up form*/
+ul.form-section{
+	padding-left:0;
+}
+.form-buttons-wrapper .btn{
+	background-color:#8DC2DB;
+	color:#333;
+}
+.form-buttons-wrapper .btn.btn-primary{
+	background-color:#101014;
+	color:#fff;
+}
+.jotform-form.col-md-8{
+	padding-left:0;
+}
+@media (min-width:992px) {
+.form-label.mid-page-label{
+	margin-bottom:0;
+}
+}
+/*footer*/
+footer{
+	width:100%;
+	min-height:50px;
+	background-color:#382f17;
+	color:white;
+	position:static;
+	bottom:0;
+	margin-bottom:0px;
+	padding-top:15px;
+	padding-bottom:10px;
+}
+footer a{
+	color:white;
+}
+footer a:hover,
+footer a:active{
+	color:white;
+}
+footer h4,
+footer h5{
+	letter-spacing:.5px;
+	font-weight:normal;
+}
+footer h4{
+	color:#8DC2DB;
+}
+footer h4 a{
+	color:inherit;
+}
+footer ul{
+	padding-left:0;
+}
+
+@media (max-width:767px) {
+	footer p{
+		font-size:14px;
+	}
+	}

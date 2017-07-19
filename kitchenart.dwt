@@ -1,0 +1,268 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Kitchen Art:Products:By Brand:l'Objet</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="ProductJava" -->
+<!--[if IE]>
+<link href="IEstyles.css" rel="stylesheet" type="text/css">
+<![endif] -->
+<script type="text/javascript" src="jquery-1.11.1.min.js">
+</script>
+
+<script type="text/javascript"> 
+	 
+	$(document).ready(function() 
+	{ 
+		$('#brandnamestitle').click(function() 
+		{ 
+			$('#brandname').toggle();
+			$('#children').hide();
+			$('#giftware').hide();
+			$('#housewares').hide();
+			$('#seasonal').hide();
+			$('#tabletop').hide();
+		}); 
+		
+		$('#childrentitle').click(function() 
+		{ 
+			$('#brandname').hide();
+			$('#children').toggle();
+			$('#giftware').hide();
+			$('#housewares').hide();
+			$('#seasonal').hide();
+			$('#tabletop').hide();
+		}); 
+		
+		$('#giftwaretitle').click(function() 
+		{ 
+			$('#brandname').hide();
+			$('#children').hide();
+			$('#giftware').toggle();
+			$('#housewares').hide();
+			$('#seasonal').hide();
+			$('#tabletop').hide();
+		}); 
+		
+		$('#housewarestitle').click(function() 
+		{ 
+			$('#brandname').hide();
+			$('#children').hide();
+			$('#giftware').hide();
+			$('#housewares').toggle();
+			$('#seasonal').hide();
+			$('#tabletop').hide();
+		}); 
+		
+		$('#seasonaltitle').click(function() 
+		{ 
+			$('#brandname').hide();
+			$('#children').hide();
+			$('#giftware').hide();
+			$('#housewares').hide();
+			$('#seasonal').toggle();
+			$('#tabletop').hide();
+		}); 
+		
+		$('#tabletoptitle').click(function() 
+		{ 
+			$('#brandname').hide();
+			$('#children').hide();
+			$('#giftware').hide();
+			$('#housewares').hide();
+			$('#seasonal').hide();
+			$('#tabletop').toggle();
+		}); 
+		
+	});  
+</script> 
+
+<script type="text/javascript"><!--//--><![CDATA[//><!--
+
+sfHover = function() {
+	var sfEls = document.getElementById("nav").getElementsByTagName("LI");
+	for (var i=0; i<sfEls.length; i++) {
+		sfEls[i].onmouseover=function() {
+			this.className+=" sfhover";
+		}
+		sfEls[i].onmouseout=function() {
+			this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
+		}
+	}
+}
+if (window.attachEvent) window.attachEvent("onload", sfHover);
+
+//--><!]]></script>
+<link href="ka.css" rel="stylesheet" type="text/css">
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<!-- TemplateParam name="nav" type="boolean" value="true" -->
+</head>
+
+<body>
+<div class="container">
+	<div id="header">
+    	<img src="../../images/kitchenartbanner.jpg" width="1000" height="200" alt="banner">
+    </div><!--end header div-->
+    <div id="mainnav"> 
+    <a href="../../index.html">HOME</a> 
+    <a href="about.html">OUR STORE</a> 
+    <a href="../../products.html">PRODUCTS</a> 
+    <a href="../../recipes.html">RECIPES AND IDEAS</a> 
+    <a href="../../contact.html">CONTACT US</a> 
+    </div>
+    <!--end mainnav div--><!-- TemplateBeginIf cond="nav" -->
+    
+    <div id="nav">
+      <ul class="dropdown">
+        <li><a href="#">BRAND NAME ITEMS<br />
+          AND COLLECTIONS</a>
+          <div id="brandname">
+            <ul>
+              <li><a href="b-bosch.html">Bosch</a></li>
+              <li><a href="b-chefn.html">Chef'n</a></li>
+              <li><a href="../../b-vividi.html">Ego</a></li>
+              <li><a href="../../b-guzzini.html">Guzzini</a></li>
+              <li><a href="../../b-klutz.html">Klutz Press</a></li>
+              <li><a href="../../b-kuhnrikon.html">Kuhn Rikon</a></li>
+              <li><a href="../../b-l-objet.html">l'Objet</a></li>
+              <li><a href="../../b-ladyjayne.html">Lady Jayne</a></li>
+              <li><a href="../../b-leonardo.html">Leonardo</a></li>
+              <li><a href="../../b-magicmill.html">Magic Mill</a></li>
+              <li><a href="../../b-melissadoug.html">Melissa &amp; Doug</a></li>
+              <li><a href="../../b-mora.html">Mora Textiles</a></li>
+              <li><a href="../../b-moser.html">Moser</a></li>
+              <li><a href="../../b-nachtmann.html">Nachtmann</a></li>
+              <li><a href="../../b-nordicware.html">Nordicware</a></li>
+              <li><a href="../../b-olivia.html">Olivia Riegel</a></li>
+              <li><a href="../../b-orchardtoys.html">Orchard Toys</a></li>
+              <li><a href="../../b-oxo.html">Oxo Good Grips</a></li>
+              <li><a href="../../b-portmeirion.html">Portmeirion</a></li>
+              <li><a href="../../b-quercetti.html">Quercetti</a></li>
+              <li><a href="../../b-ravensburger.html">Ravensburger</a></li>
+              <li><a href="../../b-rsvp.html">RSVP</a></li>
+              <li><a href="../../b-splendide.html">Splendide</a></li>
+              <li><a href="../../b-glitter.html">The Glitter Collection</a></li>
+              <li><a href="../../b-thinkfun.html">Thinkfun</a></li>
+              <li><a href="../../b-tinylove.html">Tiny Love</a></li>
+              <li><a href="../../b-tramontina.html">Tramontina</a></li>
+              <li><a href="../../b-victorinox.html">Victorinox</a></li>
+              <li><a href="../../b-wilton.html">Wilton</a></li>
+              <li><a href="../../b-yamazaki.html">Yamazaki</a></li>
+              <li><a href="../../b-zyliss.html">Zyliss</a></li>
+            </ul>
+          </div>
+        </li>
+        <li><a href="#">CHILDRENS GIFTS</a>
+          <div id="children">
+            <ul>
+              <li><a href="../../c-babygifts.html">Baby Gifts</a></li>
+              <li><a href="../../c-bookscrafts.html">Books and Crafts</a></li>
+              <li><a href="../../c-buildingtoys.html">Building Toys</a></li>
+              <li><a href="../../c-gamespuzzles.html">Games and Puzzles</a></li>
+            </ul>
+          </div>
+        </li>
+        <li><a href="#">GIFTWARE</a>
+          <div id="giftware">
+            <ul>
+              <li><a href="../../g-deskaccessories.html">Desk Accessories</a></li>
+              <li><a href="../../g-giftbaskets.html">Gift Baskets</a></li>
+              <li><a href="../../g-giftsforher.html">Gifts for Her</a></li>
+              <li><a href="../../g-judaica.html">Judaica</a></li>
+              <li><a href="../../g-magnetboardsframes.html">Magnet Boards and Frames</a></li>
+              <li><a href="../../g-mugs.html">Mugs</a></li>
+              <li><a href="../../g-stationary.html">Stationary</a></li>
+              <li><a href="../../g-travelaccessories.html">Travel Accessories</a></li>
+            </ul>
+          </div>
+        </li>
+        <li><a href="#">HOUSEWARES</a>
+          <div id="housewares">
+            <ul>
+              <li><a href="../../h-appliances.html">Appliances</a></li>
+              <li><a href="../../h-bakeware.html">Bake Ware</a></li>
+              <li><a href="../../h-baking gadgets.html">Baking Gadgets</a></li>
+              <li><a href="../../h-cakedecorating.html">Cake Decorating</a></li>
+              <li><a href="../../h-candychocolate.html">Candy and Chocolate</a></li>
+              <li><a href="../../h-cleanstore.html">Clean and Store</a></li>
+              <li><a href="../../h-cookbooks.html">Cookbooks</a></li>
+              <li><a href="../../h-cookiescupcakes.html">Cookies and Cupcakes</a></li>
+              <li><a href="../../h-cookingutensils.html">Cooking Utensils</a></li>
+              <li><a href="../../h-edibledecorations.html">Edible Decorations</a></li>
+              <li><a href="../../h-fruitvegetabletools.html">Fruit and Vegetable Tools</a></li>
+              <li><a href="../../h-kitchenlinens.html">Kitchen Linens</a></li>
+              <li><a href="../../h-knivespeelers.html">Knives and Peelers</a></li>
+              <li><a href="../../h-potspans.html">Pots and Pans</a></li>
+            </ul>
+          </div>
+        </li>
+        <li><a href="#">SEASONAL ITEMS</a>
+          <div id="seasonal">
+            <ul>
+              <li><a href="../../s-roshhashanah.html">Rosh Hashanah</a></li>
+              <li><a href="../../s-sukkos.html">Succos</a></li>
+              <li><a href="../../s-chanukah.html">Chanukah</a></li>
+              <li><a href="../../s-purim.html">Purim</a></li>
+              <li><a href="../../s-pesach.html">Pesach</a></li>
+              <li><a href="../../s-shavuos.html">Shavuos</a></li>
+            </ul>
+          </div>
+        </li>
+        <li><a href="#">TABLETOP AND ENTERTAINING</a>
+          <div id="tabletop">
+            <ul>
+              <li><a href="../../t-bowls.html">Bowls</a></li>
+              <li><a href="../../t-dinnerware.html">Dinnerware</a></li>
+              <li><a href="../../t-flatware.html">Flatware</a></li>
+              <li><a href="../../t-napkinsdisposables.html">Napkins and Disposables</a></li>
+              <li><a href="../../t-oventable.html">Oven to Table</a></li>
+              <li><a href="../../t-pitchers.html">Pitchers</a></li>
+              <li><a href="../../t-servingutensils.html">Serving Utensils</a></li>
+              <li><a href="../../t-stemware.html">Stemware</a></li>
+              <li><a href="../../t-tableaccessories.html">Table Accessories</a></li>
+              <li><a href="../../t-tablelinens.html">Table Linens</a></li>
+              <li><a href="../../t-traysplatters.html">Trays and Platters</a></li>
+              <li><a href="../../t-vases.html">Vases</a></li>
+            </ul>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <!--end nav div-->
+    <!-- TemplateEndIf -->
+    <div id="content"><!-- TemplateBeginEditable name="Table" -->
+   
+    <table id="cutlery" width="700px" cellpadding="0">
+      <h1>Cutlery</h1>
+      <tr>
+        <td> <a class="thumb" href="#"><img src="../../images/l'objet/cutlery-breadknife-gold200.jpg" width="175" height="175" alt="cutlery" border="0"><span><img src="../../images/l'objet/cutlery-breadknife-gold470.jpg"></span></a><br>
+          Bread Knife Gold</td>
+        <td> <a class="thumb" href="#"><img src="../../images/l'objet/cutlery-breadknife-platinum200.jpg" width="175" height="175" alt="cutlery" border="0"><span><img src="../../images/l'objet/cutlery-breadknife-platinum470.jpg"></span></a><br>
+          <br />
+          Bread Knife Platinum</td>
+        <td> <a class="thumb" href="#"><img src="../../images/l'objet/cutlery-cakeserver-gold200.jpg" width="175" height="175" alt="cutlery" border="0"><span class="rightSide"><img src="../../images/l'objet/cutlery-cakeserver-gold470.jpg"></span></a><br>
+        
+          <br />
+          Cake Server Gold</td>
+        <td> <a class="thumb" href="#"><img src="../../images/l'objet/cutlery-cakeserver-platinum200.jpg" width="175" height="175" alt="cutlery" border="0"><span class="rightSide"><img src="../../images/l'objet/cutlery-cakeserver-platinum470.jpg"></span></a>
+       
+          <br />
+          Cake Server Platinum</td>
+      </tr>
+    </table>
+   
+    <!-- TemplateEndEditable --></div>
+    <!--end content div-->
+          
+	<div id="footer">
+    	<p>&copy; 2013 Kitchen Art &#8226; 2821 Bathurst St. &#8226; 416.787.9326 &#8226; <a href="mailto:renee@kitchenartcanada.com">renee@kitchenartcanada.com</a> l
+        Site designed by: Design Younique &#8226; 647-772-5535 &#8226; <a href="mailto:designyounique1@gmail.com">designyounique1@gmail.com</a></p>
+        
+  </div><!--end footer div-->
+</div><!--end container div-->
+</body>
+</html>

@@ -1,0 +1,218 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="keywords" content="kitchen, art, toronto, ontario, canada, gift, housewares, toys, tabletop, entertaining, dishes, china, knives, dolls, bowls, platters, gift baskets, kitchen art, building toys, judaica, appliances, baby">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Kitchen Art:Products:By Brand:l'Objet</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="ProductJava" -->
+<!--[if IE]>
+<link href="IEstyles.css" rel="stylesheet" type="text/css">
+<![endif] -->
+<script type="text/javascript" src="file:///Macintosh HD/Users/shifrasteinmetz/Desktop/kitchenart/website/Templates/jquery-1.11.1.min.js">
+</script>
+
+<script type="text/javascript"> 
+	 
+	$(document).ready(function() 
+	{ 
+		$('#brandnamestitle').click(function() 
+		{ 
+			$('#brandname').toggle();
+			$('#children').hide();
+			$('#giftware').hide();
+			$('#housewares').hide();
+			$('#seasonal').hide();
+			$('#tabletop').hide();
+		}); 
+		
+		$('#childrentitle').click(function() 
+		{ 
+			$('#brandname').hide();
+			$('#children').toggle();
+			$('#giftware').hide();
+			$('#housewares').hide();
+			$('#seasonal').hide();
+			$('#tabletop').hide();
+		}); 
+		
+		$('#giftwaretitle').click(function() 
+		{ 
+			$('#brandname').hide();
+			$('#children').hide();
+			$('#giftware').toggle();
+			$('#housewares').hide();
+			$('#seasonal').hide();
+			$('#tabletop').hide();
+		}); 
+		
+		$('#housewarestitle').click(function() 
+		{ 
+			$('#brandname').hide();
+			$('#children').hide();
+			$('#giftware').hide();
+			$('#housewares').toggle();
+			$('#seasonal').hide();
+			$('#tabletop').hide();
+		}); 
+		
+		$('#seasonaltitle').click(function() 
+		{ 
+			$('#brandname').hide();
+			$('#children').hide();
+			$('#giftware').hide();
+			$('#housewares').hide();
+			$('#seasonal').toggle();
+			$('#tabletop').hide();
+		}); 
+		
+		$('#tabletoptitle').click(function() 
+		{ 
+			$('#brandname').hide();
+			$('#children').hide();
+			$('#giftware').hide();
+			$('#housewares').hide();
+			$('#seasonal').hide();
+			$('#tabletop').toggle();
+		}); 
+		
+	});  
+</script> 
+
+<script type="text/javascript"><!--//--><![CDATA[//><!--
+
+sfHover = function() {
+	var sfEls = document.getElementById("nav").getElementsByTagName("LI");
+	for (var i=0; i<sfEls.length; i++) {
+		sfEls[i].onmouseover=function() {
+			this.className+=" sfhover";
+		}
+		sfEls[i].onmouseout=function() {
+			this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
+		}
+	}
+}
+if (window.attachEvent) window.attachEvent("onload", sfHover);
+
+//--><!]]></script>
+<link href="../ka.css" rel="stylesheet" type="text/css">
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<!-- TemplateParam name="nav" type="boolean" value="true" -->
+</head>
+
+<body>
+<div id="header">
+<div id="header-inner">
+<img src="../images/slideshow/kitchenartheaderlogo.png" width="200" height="100" alt="kitchen art" />
+<div id="navnew">
+<a href="../index.php">HOME</a> <a href="../index.php#about">OUR STORE</a> <a href="../products.php">PRODUCTS</a> <a href="../tipsntalk.html">TIPS AND TALK</a> <a href="../index.php#contact">CONTACT US</a> 
+</div>
+</div>
+    </div><!--end header div-->
+  <!--  <div id="mainnav"> <a href="../public_html/kitchenartcanada.com/index.html">HOME</a> <a href="../public_html/kitchenartcanada.com/about.html">OUR STORE</a> <a href="../public_html/kitchenartcanada.com/products.html">PRODUCTS</a> <a href="../public_html/kitchenartcanada.com/tipsntalk.html">TIPS AND TALK</a> <a href="../public_html/kitchenartcanada.com/contact.html">CONTACT US</a> </div>
+    <!--end mainnav div--><!-- TemplateBeginIf cond="nav" -->
+<div class="container">
+	
+    <div id="nav">
+      <ul class="dropdown">
+      	<li><a href="#">COOKBOOK CHAT</a>
+          <div id="cookbookchat">
+            <ul>
+              <li><a href="../r-zinganything.html">Estee Kafra's Shavuos Ideas</a></li>
+              <li><a href="../r-silverplatter.html">Summertime Cooking with Daniella Silver</a></li>
+            </ul>
+          </div>
+        </li>
+      	<li><a href="#">RECIPES</a>
+          <div id="recipes">
+            <ul>
+              <li><a href="../r-tomatosoup.html">Tomato Vegetable Soup & Sour Cream Biscuits</a></li>
+              <li><a href="../r-zinganything.html">Zing Anything</a></li>
+              <li><a href="../r-zinganything.html">Best Brownie Cheesecake</a></li>
+              <li><a href="../r-zinganything.html">Dairy Mushroom Turnovers</a></li>
+              <li><a href="../r-zinganything.html">Floral Coconut Orange Cupcakes</a></li>
+              <li><a href="../r-zoku.html">Healthy Zoku Pop Maker Fun</a></li>
+              <li><a href="../r-roshhashana.html">Apple Pie</a></li>
+              <li><a href="../r-roshhashana.html">Apple Tart</a></li>
+              <li><a href="../r-roshhashana.html">Babby Rosie's Honey Cake</a></li>
+              <li><a href="../r-roshhashana.html">Mini Baked Apples</a></li>
+              <li><a href="../r-chanuka.html">Dreidel Cookies</a></li>
+              <li><a href="../r-chanuka.html">Baked Mini Donuts</a></li>
+              <li><a href="../r-chanuka.html">Classic Fried Donuts</a></li>
+              <li><a href="../r-chanuka.html">Israeli Jelly Donuts (Sufganiyot)</a></li>
+              <li><a href="../r-chanuka.html">Rosettes</a></li>
+              <li><a href="../r-chanuka.html">Chanuka Gelt Cake</a></li>
+              <li><a href="../r-chanuka.html">Oven-Fried Potato Latkes</a></li>
+              <li><a href="../r-chanuka.html">Oven-Fried Zucchini Latkes</a></li>
+              <li><a href="../r-purim.html">Cherry Hamantash Muffins</a></li>
+              <li><a href="../r-purim.html">Good-For-You Muffins</a></li>
+            </ul>
+          </div>
+        </li>
+        <li><a href="#">HOW-TO DEMONSTRATIONS</a>
+          <div id="howto">
+            <ul>
+              <li><a href="file:///Macintosh HD/Users/shifrasteinmetz/Desktop/kitchenart/website/r-tomatosoup.html">Chef'n</a>
+              	<ul>
+                	<li><a href="file:///Macintosh HD/Users/shifrasteinmetz/Desktop/kitchenart/website/r-tomatosoup.html">Fresh Force Potato Masher</a></li>
+                    <li><a href="file:///Macintosh HD/Users/shifrasteinmetz/Desktop/kitchenart/website/r-tomatosoup.html">Veggi-Chop</a></li>
+                </ul>
+              </li>
+              
+              <li><a href="file:///Macintosh HD/Users/shifrasteinmetz/Desktop/kitchenart/website/r-zinganything.html">Zing Anything</a>
+              	<ul>
+                	<li><a href="file:///Macintosh HD/Users/shifrasteinmetz/Desktop/kitchenart/website/r-zinganything.html">AquaZinger</a></li>
+                    <li><a href="file:///Macintosh HD/Users/shifrasteinmetz/Desktop/kitchenart/website/r-zinganything.html">CitrusZinger</a></li>
+                    <li><a href="file:///Macintosh HD/Users/shifrasteinmetz/Desktop/kitchenart/website/r-zinganything.html">SaladZinger</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </li>
+        <li><a href="#">TIPS</a>
+          <div id="tips">
+            <ul>
+              <li><a href="file:///Macintosh HD/Users/shifrasteinmetz/Desktop/kitchenart/website/r-tomatosoup.html">Garlic</a></li>
+            </ul>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <!--end nav div-->
+    <!-- TemplateEndIf -->
+    <div id="content"><!-- TemplateBeginEditable name="Table" -->
+   
+    <table id="cutlery" width="700px" cellpadding="0">
+      <h1>Cutlery</h1>
+      <tr>
+        <td> <a class="thumb" href="#"><img src="file:///Macintosh HD/Users/shifrasteinmetz/Desktop/kitchenart/website/images/l'objet/cutlery-breadknife-gold200.jpg" width="175" height="175" alt="cutlery" border="0"><span><img src="file:///Macintosh HD/Users/shifrasteinmetz/Desktop/kitchenart/website/images/l'objet/cutlery-breadknife-gold470.jpg"></span></a><br>
+          Bread Knife Gold</td>
+        <td> <a class="thumb" href="#"><img src="file:///Macintosh HD/Users/shifrasteinmetz/Desktop/kitchenart/website/images/l'objet/cutlery-breadknife-platinum200.jpg" width="175" height="175" alt="cutlery" border="0"><span><img src="file:///Macintosh HD/Users/shifrasteinmetz/Desktop/kitchenart/website/images/l'objet/cutlery-breadknife-platinum470.jpg"></span></a><br>
+          
+          Bread Knife Platinum</td>
+        <td> <a class="thumb" href="#"><img src="file:///Macintosh HD/Users/shifrasteinmetz/Desktop/kitchenart/website/images/l'objet/cutlery-cakeserver-gold200.jpg" width="175" height="175" alt="cutlery" border="0"><span class="rightSide"><img src="file:///Macintosh HD/Users/shifrasteinmetz/Desktop/kitchenart/website/images/l'objet/cutlery-cakeserver-gold470.jpg"></span></a><br>
+        
+         
+          Cake Server Gold</td>
+        <td> <a class="thumb" href="#"><img src="file:///Macintosh HD/Users/shifrasteinmetz/Desktop/kitchenart/website/images/l'objet/cutlery-cakeserver-platinum200.jpg" width="175" height="175" alt="cutlery" border="0"><span class="rightSide"><img src="file:///Macintosh HD/Users/shifrasteinmetz/Desktop/kitchenart/website/images/l'objet/cutlery-cakeserver-platinum470.jpg"></span></a>
+       
+          <br>
+          Cake Server Platinum</td>
+      </tr>
+    </table>
+   
+    <!-- TemplateEndEditable --></div>
+    <!--end content div-->
+          
+	
+</div><!--end container div-->
+<div id="footer">
+    	<p>&copy; 2014 Kitchen Art &#8226; 2821 Bathurst St. &#8226; Toronto, Ontario, Canada &#8226; 416.787.9326 &#8226; <a href="mailto:renee@kitchenartcanada.com">info@kitchenartcanada.com</a> <br>
+        Site designed by: Design Younique &#8226; 732.569.2492 &#8226; <a href="mailto:designyounique1@gmail.com">designyounique1@gmail.com</a></p>
+        
+  </div><!--end footer div-->
+</body>
+</html>

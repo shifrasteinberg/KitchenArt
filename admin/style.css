@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+
+.capitalize {
+    text-transform: capitalize;
+}
+table td{
+	padding:5px;
+	}
