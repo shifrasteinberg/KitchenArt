@@ -139,10 +139,20 @@ mix, and let stand for another 5 minutes.</small></p>
   <div class="col-sm-12 thumb recipe-img">
         <a class="thumbnail" >
         <span class="thumbnail-inner">
-        <img class="img-responsive" id="sesame" src="images/tipsntalk/new-look/recipes/spelt-bread.jpg" alt="" border="0"></span></a>
+        <img class="img-responsive" id="sesame" src="images/tipsntalk/new-look/recipes/rye-bread.jpg" width="100%" alt="" border="0"></span></a>
+       
+      </div>
+      
+      <div class="col-sm-12 thumb recipe-img">
+        <a class="thumbnail" >
+        <span class="thumbnail-inner">
+        <img class="img-responsive" id="sesame" src="images/tipsntalk/new-look/recipes/rye-bread-2.jpg" width="100%" alt="" border="0"></span></a>
        
       </div>
   </div>
+  
+  
+  
   
   <div class="col-md-9 col-sm-8">
 
@@ -187,17 +197,11 @@ mix, and let stand for another 5 minutes.</small></p>
   <div class="col-sm-12 thumb recipe-img">
         <a class="thumbnail" >
         <span class="thumbnail-inner">
-        <img class="img-responsive" id="sesame" src="images/tipsntalk/new-look/recipes/rye-bread.jpg" alt="" border="0"></span></a>
+        <img class="img-responsive" id="sesame" src="images/tipsntalk/new-look/recipes/spelt-bread.jpg" alt="" border="0"></span></a>
        
       </div>
+    </div>  
       
-      <div class="col-sm-12 thumb recipe-img">
-        <a class="thumbnail" >
-        <span class="thumbnail-inner">
-        <img class="img-responsive" id="sesame" src="images/tipsntalk/new-look/recipes/rye-bread-2.jpg" alt="" border="0"></span></a>
-       
-      </div>
-  </div>
   
   <div class="col-md-9 col-sm-8">
 
