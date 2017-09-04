@@ -1,7 +1,7 @@
 <div class="container-fluid click-me" style="position:fixed; top:0; z-index:51; background-color:white; width:100%; height:80px; padding:0;">
 <div class="opacity" style="background-color:rgba(233,227,220,.4); height:100%;">
 <div class="container">
-<h1 style="text-align:center; font-size:34px;">BIG SALE! Prices slashed on hundreds of items! <a style="text-decoration:underline;" href="specials.php">View Specials</a><!--Refresh yourself this summer with our <a style="text-decoration:underline;" href="category.php?t=Candy%20-%20%20Chocolate%20and%20Frozen%20Treats#32">Frozen Treat Products</a>! Zoku Pop Maker Recipes: <a style="text-decoration:underline;" href="tipsntalk.php">Click Here!</a> --></h1>
+<h1 style="text-align:center; font-size:34px;">Rosh Hashana is fast approaching! <a style="text-decoration:underline;" href="category.php?t=Rosh%20Hashana">Check out our Rosh Hashana products.</a><!--Refresh yourself this summer with our <a style="text-decoration:underline;" href="category.php?t=Candy%20-%20%20Chocolate%20and%20Frozen%20Treats#32">Frozen Treat Products</a>! Zoku Pop Maker Recipes: <a style="text-decoration:underline;" href="tipsntalk.php">Click Here!</a> --></h1>
 </div>
 </div>
 </div>

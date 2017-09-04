@@ -35,7 +35,53 @@ $query_subcategory = "SELECT id, title, description FROM subcategory WHERE activ
 $subcategory = mysql_query($query_subcategory, $sql) or die(mysql_error());
 $row_subcategory = mysql_fetch_assoc($subcategory);
 $totalRows_subcategory = mysql_num_rows($subcategory);
-			?> 
+			?>
+            
+            <hr>
+     <p class="lead" style="margin-bottom:5px;">Sign up to receive the latest updates and specials, at advance notice, straight to your inbox!</p>
+          <form class="jotform-form col-md-12" action="https://submit.jotform.us/submit/71658307846163/" method="post" name="form_71658307846163" id="71658307846163" accept-charset="utf-8">
+  <input type="hidden" name="formID" value="71658307846163" />
+  <div class="form-all">
+    <ul class="form-section page-section">
+      <li style="list-style:none;" class="form-line col-md-4" data-type="control_textbox" id="id_1">
+        <label class="form-label form-label-left form-label-auto mid-page-label" id="label_1" for="input_1">  </label>
+        <div id="cid_1" class="form-input jf-required">
+          <input type="text" id="input_1" name="q1_input1" data-type="input-textbox" class="form-control" size="20" value="" placeholder="NAME" data-component="textbox" width="100%" />
+        </div>
+      </li>
+      <li style="list-style:none;" class="form-line form-group col-md-5" data-type="control_email" id="id_3">
+        <label class="form-label form-label-left form-label-auto mid-page-label" id="label_3" for="input_3">  </label>
+        <div id="cid_3" class="form-input jf-required">
+          <input type="email" id="input_3" name="q3_input3" class="form-control validate[Email]" size="30" value="" placeholder="E-MAIL ADDRESS" data-component="email" width="100%" />
+        </div>
+      </li>
+      <li style="list-style:none;" class="form-line col-md-3" data-type="control_button" id="id_2">
+      <div class="form-group">
+        <div id="cid_2" class="form-input-wide">
+          <div class="form-buttons-wrapper">
+            <button id="input_2" type="submit" class="btn btn-primary" data-component="button" width="100%">
+              SUBSCRIBE
+            </button>
+          </div>
+        </div>
+        </div>
+      </li>
+      <li style="display:none">
+        Should be Empty:
+        <input type="text" name="website" value="" />
+      </li>
+    </ul>
+  </div>
+  <script>
+  JotForm.showJotFormPowered = "0";
+  </script>
+  <input type="hidden" id="simple_spc" name="simple_spc" value="71658307846163" />
+  <script type="text/javascript">
+  document.getElementById("si" + "mple" + "_spc").value = "71658307846163-71658307846163";
+  </script>
+</form>
+     <hr style="clear:both; margin-bottom:0;"> 
+      
     <?php if ($totalRows_subcategory > 0) { // Show if recordset not empty ?>
       <div class="page-links-outer">
       <?php
