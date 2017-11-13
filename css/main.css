@@ -4,7 +4,7 @@
 /*text*/
 body{
 	color:#382f17;
-    padding-top: 125px;
+  padding-top: 45px;
 	padding-bottom:79px;
 	font-size:16px;
 }
@@ -61,7 +61,7 @@ a:hover{
 }
 @media (max-width:991px) {
 	body{
-		padding-top:160px;
+		padding-top:80px;
 	}
 	.click-me{
 		height:110px!important;
@@ -74,7 +74,7 @@ a:hover{
 }
 @media (max-width:767px) {
 	body{
-		padding-top:160px;
+		padding-top:80px;
 	}
 	.click-me{
 		height:110px!important;
