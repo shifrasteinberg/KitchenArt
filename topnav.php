@@ -1,7 +1,7 @@
 <div class="container-fluid click-me" style="position:fixed; top:0; z-index:51; background-color:white; width:100%; height:110px; padding:0;">
 <div class="opacity" style="background-color:rgba(233,227,220,.4); height:100%;">
 <div class="container">
-<h1 style="text-align:center; font-size:34px;">View our original <a style="text-decoration:underline;" href="../category.php?t=Chanukah#209">menorah selection</a>! Stock up on Chanukah gifts! <a style="text-decoration:underline;" href="../parentcategory.php?t=CHILDRENS%20GIFTS">Shop our beautiful toy selection!</a>! Plus check out our <a href="../tipsntalk.php">Chanukah Recipes</a>.<!--Refresh yourself this summer with our <a style="text-decoration:underline;" href="category.php?t=Candy%20-%20%20Chocolate%20and%20Frozen%20Treats#32">Frozen Treat Products</a>! Zoku Pop Maker Recipes: <a style="text-decoration:underline;" href="tipsntalk.php">Click Here!</a> --></h1>
+<h1 style="text-align:center; font-size:34px;">Winter sale! Hundreds of items reduced to clear! Stock up now on gifts, housewares, and toys. <a style="text-decoration:underline;" href="../specials.php">Click here</a>.</h1>
 </div>
 </div>
 </div>
