@@ -4,7 +4,7 @@
 /*text*/
 body{
 	color:#382f17;
-    padding-top: 160px;
+    padding-top: 130px;
 	padding-bottom:79px;
 	font-size:16px;
 }
@@ -49,7 +49,7 @@ a:hover{
 	z-index:50;
 }
 .navbar-fixed-top{
-	top:110px;
+	top:80px;
 }
 @media (max-width:1199px) {
 	
@@ -64,7 +64,7 @@ a:hover{
 		padding-top:160px;
 	}
 	.click-me{
-		height:80px!important;
+		height:110px!important;
 		
 	}
 	
@@ -77,7 +77,7 @@ a:hover{
 		padding-top:160px;
 	}
 	.click-me{
-		height140px!important;
+		height:110px!important;
 		
 	}
 	.click-me h1{
@@ -395,7 +395,7 @@ a.thumbnail.active, a.thumbnail:focus, a.thumbnail:hover{
 h5.thumbtitle{
 	margin-bottom:30px;
 	font-size:16px;
-	height:80px;
+	height:95px;
 	line-height:20px;
 }
 @media (max-width:1199px) {

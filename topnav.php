@@ -1,7 +1,7 @@
-<div class="container-fluid click-me" style="position:fixed; top:0; z-index:51; background-color:white; width:100%; height:110px; padding:0;">
+<div class="container-fluid click-me" style="position:fixed; top:0; z-index:51; background-color:white; width:100%; height:80px; padding:0;">
 <div class="opacity" style="background-color:rgba(233,227,220,.4); height:100%;">
 <div class="container">
-<h1 style="text-align:center; font-size:34px;">Winter sale! Hundreds of items reduced to clear! Stock up now on gifts, housewares, and toys. <a style="text-decoration:underline;" href="../specials.php">Click here</a>.</h1>
+<h1 style="text-align:center; font-size:34px;">Send Mishloach Manos to Toronto, Canada! Check out our beautiful <a style="text-decoration:underline;" href="../category.php?t=Purim">gift packages</a>.</h1>
 </div>
 </div>
 </div>
